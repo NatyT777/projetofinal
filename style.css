@@ -1,8 +1,8 @@
 @import url(https://fonts.google.com/specimen/Satisfy);     
 :root{
-    --cor-principal: #6E859F;
---cor-segundaria: #284260;
---cor-destaque: #C92BFC;
+    --cor-principal: #BC3333;
+--cor-segundaria: #02504B;
+--cor-destaque: #EA98FF;
 }
 
 body{
